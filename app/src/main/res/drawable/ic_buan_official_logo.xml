@@ -1,0 +1,54 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="80dp"
+    android:viewportWidth="240"
+    android:viewportHeight="80">
+
+    <!-- Underline bar under BUAN -->
+    <path
+        android:fillColor="#0038E0"
+        android:pathData="M16,56 L224,56 L224,58.5 L16,58.5 Z" />
+
+    <!-- Wordmark BUAN: stylized letters -->
+    <!-- B -->
+    <path
+        android:fillColor="#0038E0"
+        android:pathData="M24,20 L48,20 C54,20 58,23 58,28 C58,32 55,34.5 51,35.5 C56.5,36.5 60,40 60,45.5 C60,51 55,54 48,54 L24,54 Z M35,27 L35,33 L46,33 C48.5,33 50.5,32 50.5,30 C50.5,28 48.5,27 46,27 Z M35,39 L35,47 L47,47 C49.5,47 51.5,45.5 51.5,43 C51.5,40.5 49.5,39 47,39 Z" />
+
+    <!-- u -->
+    <path
+        android:fillColor="#0038E0"
+        android:pathData="M68,32 L78,32 L78,44 C78,47 80,48.5 83,48.5 C86,48.5 88,47 88,44 L88,32 L98,32 L98,44 C98,51 92,55 83,55 C74,55 68,51 68,44 Z" />
+
+    <!-- a -->
+    <path
+        android:fillColor="#0038E0"
+        android:pathData="M106,42 C106,35 112,32 121,32 C129,32 135,35 135,42 L135,54 L125,54 L125,51 C123,53.5 120,55 116,55 C110,55 106,51 106,46 C106,40.5 111,38 123,37.5 L125,37.4 L125,36.5 C125,35 123,34 120,34 C117,34 115,35 115,36.5 L106,36.5 C106,34 110,32 121,32 Z M125,41.5 L121,41.8 C117,42.2 115,43.5 115,46 C115,48 117,49.5 119.5,49.5 C122.5,49.5 125,47.5 125,44.5 Z" />
+
+    <!-- Radar Pivot on top of 'a'/'n' -->
+    <!-- Pivot Ring -->
+    <path
+        android:fillColor="#0038E0"
+        android:pathData="M140,24 A6,6 0 1,1 140,36 A6,6 0 1,1 140,24 M140,27 A3,3 0 1,0 140,33 A3,3 0 1,0 140,27" />
+
+    <!-- Radar Antenna Sector / Dish (fan wedge pointing top-right) -->
+    <path
+        android:fillColor="#0038E0"
+        android:pathData="M142,26 L178,20 C182,12 178,4 165,2 C152,0 143,8 138,22 Z" />
+    <path
+        android:fillColor="#0038E0"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:pathData="M141,25 L168,10" />
+
+    <!-- n -->
+    <path
+        android:fillColor="#0038E0"
+        android:pathData="M147,32 L157,32 L157,36 C159,33.5 163,32 168,32 C176,32 181,36.5 181,44 L181,54 L171,54 L171,45 C171,42 169,40.5 166,40.5 C163,40.5 161,42 161,45 L161,54 L151,54 L151,32 Z" />
+
+    <!-- Tagline: "Pay Less For More..." rendered as stylized geometric strokes / dots -->
+    <!-- Underline dot markers and clean line accent -->
+    <path
+        android:fillColor="#0038E0"
+        android:pathData="M28,66 L29,66 L29,72 L28,72 Z" />
+</vector>

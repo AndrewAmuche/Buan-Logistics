@@ -1,0 +1,6 @@
+{
+  "name": "BUAN Logistics",
+  "description": "Move Cargo. Move Business. High-performance Nigerian and international logistics platform for air, sea, road freight, live shipment tracking, hub network, and referral cashback & free shipping rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
